@@ -2,7 +2,7 @@
 
 A smart and interactive Store Management System that brings inventory, shopping, and automated billing together in one Python-based platform.
 
-## 🚀 Features
+##  Features
 
 - Product management
 - Inventory management
@@ -13,7 +13,7 @@ A smart and interactive Store Management System that brings inventory, shopping,
 - Interactive graphical user interface
 - Admin and store management
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Tkinter
@@ -21,7 +21,7 @@ A smart and interactive Store Management System that brings inventory, shopping,
 - MySQL Connector
 - Python-docx
 
-## 📌 Project Overview
+##  Project Overview
 
 Patel Control Panel is a Store Management System developed to make everyday store operations easier and more organized.
 
@@ -29,7 +29,7 @@ The system provides a graphical interface through which products can be managed,
 
 The project combines Python for application logic, Tkinter for the graphical interface, MySQL for database management, and Python-docx for generating bills.
 
-## 🎯 Objectives
+##  Objectives
 
 - To simplify store and product management.
 - To maintain product and inventory information.
@@ -39,25 +39,24 @@ The project combines Python for application logic, Tkinter for the graphical int
 - To generate customer bills automatically.
 - To store and manage product information using MySQL.
 
-## 📂 Main Modules
+##  Main Modules
 
-### 👨‍💼 Admin
+###  Admin
 
 The Admin module is used for managing store-related information and products.
 
-### 🛒 Store
+###  Store
 
 The Store module allows users to view available products and manage their shopping cart.
 
-### 🧾 Billing
+###  Billing
 
 The Billing module handles customer billing and generates the final bill based on the selected products.
 
-### 🗄️ Database
+###  Database
 
 MySQL is used to store and manage product and store information.
-
-## 🔄 System Flow
+##  System Flow
 
 ```text
 Admin
